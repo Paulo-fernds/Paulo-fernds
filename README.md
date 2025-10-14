@@ -97,7 +97,6 @@ interfaces web e aplicações voltadas à experiência do usuário.
 - [Metoru (Perfilometria a laser + Web/OPC UA)](#metoru-perfilometria-a-laser--webopc-ua)
 - [TCC — Detecção e Classificação de Tomates (YOLO)](#tcc--detecção-e-classificação-de-tomates-yolo)
 - [PIBIC — IoT aplicado ao Ensino de Cinemática](#pibic--iot-aplicado-ao-ensino-de-cinemática)
-- [Escola em Tempo Integral — Robótica Educacional](#escola-em-tempo-integral--robótica-educacional)
 
 > Dica: troque os `#` de “Repositório” por links reais dos seus repos. Onde já há vídeo, mantive o link.
 
