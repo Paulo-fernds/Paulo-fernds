@@ -89,6 +89,50 @@ interfaces web e aplicações voltadas à experiência do usuário.
 
 <br>
 
-### 🤖 Linguagens e Tecnologias
+---
+
+## 🚀 Projetos
+
+- [Stipare Spelho (Visão Computacional + YOLO)](#stipare-spelho-visão-computacional--yolo)
+- [Metoru (Perfilometria a laser + Web/OPC UA)](#metoru-perfilometria-a-laser--webopc-ua)
+- [TCC — Detecção e Classificação de Tomates (YOLO)](#tcc--detecção-e-classificação-de-tomates-yolo)
+- [PIBIC — IoT aplicado ao Ensino de Cinemática](#pibic--iot-aplicado-ao-ensino-de-cinemática)
+- [Escola em Tempo Integral — Robótica Educacional](#escola-em-tempo-integral--robótica-educacional)
+
+> Dica: troque os `#` de “Repositório” por links reais dos seus repos. Onde já há vídeo, mantive o link.
+
+---
+
+### Stipare Spelho (Visão Computacional + YOLO)
+**Papel:** Liderança de software (CV/IA + UX/UI)  
+**Resumo:** Aferição automatizada de itens em caixas (cabos, fontes, modems Wi-Fi) com YOLO; desvio na esteira se faltar item; detecção de caixas abertas.  
+**Stack:** Python, YOLO, OpenCV, Web  
+**Links:** Repositório: `#`
+
+---
+
+### Metoru (Perfilometria a laser + Web/OPC UA)
+**Papel:** Backend/Frontend Web  
+**Resumo:** Aferição de peças por perfilometria a laser em robô cartesiano; app web para cadastro/relatórios e comandos (jog, início de aferição), integração OPC UA.  
+**Stack:** Python/JS, OPC UA, Web  
+**Links:** Repositório: `#`  ·  Observação: imagens limitadas por confidencialidade
+
+---
+
+### TCC — Detecção e Classificação de Tomates (YOLO)
+**Papel:** Eng. de ML/Visão Computacional  
+**Resumo:** Detecção e contagem em tempo real (imagem/vídeo), classificação por maturação (verde/maduro/podre), dashboard de métricas; módulo de climatologia.  
+**Stack:** Python, YOLO, OpenCV, Roboflow  
+**Links:** Repositório: `#`  ·  Vídeo: https://youtu.be/1DnP1XVdMro
+
+---
+
+### PIBIC — IoT aplicado ao Ensino de Cinemática
+**Papel:** Dev/IoT  
+**Resumo:** Sensores IR + Raspberry Pi 4 registrando tempos para cálculo de velocidade/aceleração; persistência (MySQL) e gráficos para análise.  
+**Stack:** Raspberry Pi, Python, MySQL  
+**Links:** Repositório: `#`  ·  Vídeo: https://youtu.be/BY82T0WxKpc
+
+
 
 
