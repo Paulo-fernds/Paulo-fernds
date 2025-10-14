@@ -128,7 +128,7 @@ interfaces web e aplicações voltadas à experiência do usuário.
 **Papel:** Dev/IoT  
 **Resumo:** Sensores IR + Raspberry Pi 4 registrando tempos para cálculo de velocidade/aceleração; persistência (MySQL) e gráficos para análise.  
 **Stack:** Raspberry Pi, Python, MySQL  
-**Links:** Repositório: `#`  ·  Vídeo: https://youtu.be/BY82T0WxKpc
+**Links:** Repositório: https://github.com/Paulo-fernds/Projeto-Pibic-IoT-aplicado-ao-ensino-da-cinematica
 
 
 
