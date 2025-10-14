@@ -120,7 +120,7 @@ interfaces web e aplicações voltadas à experiência do usuário.
 **Papel:** Eng. de ML/Visão Computacional  
 **Resumo:** Detecção e contagem em tempo real (imagem/vídeo), classificação por maturação (verde/maduro/podre), dashboard de métricas; módulo de climatologia.  
 **Stack:** Python, YOLO, OpenCV, Roboflow  
-**Links:** Repositório: `http://github.com/Paulo-fernds/SDT-SISTEMA-DE-DETECCAO-DE-TOMATES/blob/main/README.md`  ·  Vídeo: https://youtu.be/1DnP1XVdMro
+**Links:** Repositório: http://github.com/Paulo-fernds/SDT-SISTEMA-DE-DETECCAO-DE-TOMATES/blob/main/README.md  ·  Vídeo: https://youtu.be/1DnP1XVdMro
 
 ---
 
