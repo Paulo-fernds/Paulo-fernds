@@ -1,26 +1,125 @@
-# Hey, I'm Paulo Fernandes <img hight="30" width="40" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
- 
-<br>
-<p align='center'>
- <img  src = "https://github-readme-stats.vercel.app/api?username=paulo-fernds&show_icons=true&theme=onedark&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-fernds&hide=html,css,java,shaderlab,kotlin,hlsl&theme=onedark">
+# 👩🏻‍💻 Larissa Kich
+
+**`Desenvolvedora FullStack`**
+
+Sou graduado em Tecnologia em Eletrônica Industrial pelo Instituto Federal do Amazonas (IFAM) e, ao 
+longo da minha trajetória, desenvolvi uma base sólida em desenvolvimento de software e estrutura de 
+dados. Buscando aprofundar meu conhecimento na área de dados, complementei minha formação com 
+cursos em Big Data, Redes Neurais Artificiais e Python para Ciência de Dados. 
+Atualmente, trabalho de forma flexível como Engenheiro de Dados e Aprendizado de Máquina no projeto 
+Business Hub da INOVA IFAM, onde colaboro no desenvolvimento de sistemas internos com foco em 
+análise de dados e soluções baseadas em machine learning. Também possuo experiência prática com 
+desenvolvimento backend, front-end e visão computacional, além de participação em projetos envolvendo 
+interfaces web e aplicações voltadas à experiência do usuário.  "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="JQuery" 
+    title="JQuery"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </p>
-
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=paulo-fernds&show_icons=true&locale=en&layout=compact&theme=onedark&line_height=0" />
-</p> 
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=paulo-fernds&theme=xcode" height="290"> 
-</p> 
-<hr>
-<h2 align="center"> 
-<p align="center" height="150">
- 
-</div>
-</br>
-</br>
-
-**If you like what I do, maybe consider buying me a coffee/tea c:**
-
-<a href="https://www.buymeacoffee.com/paulofernds" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
