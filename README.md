@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Python`**
 
-Sou graduado em Tecnologia em Eletrônica Industrial pelo Instituto Federal do Amazonas (IFAM) e, ao 
+Sou graduado em Eletrônica Industrial pelo Instituto Federal do Amazonas (IFAM) e, ao 
 longo da minha trajetória, desenvolvi uma base sólida em desenvolvimento de software e estrutura de 
 dados. Buscando aprofundar meu conhecimento na área de dados, complementei minha formação com 
 cursos em Big Data, Redes Neurais Artificiais e Python para Ciência de Dados. 
