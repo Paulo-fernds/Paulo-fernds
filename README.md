@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Paulo Fernandes
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Python`**
 
 Sou graduado em Tecnologia em Eletrônica Industrial pelo Instituto Federal do Amazonas (IFAM) e, ao 
 longo da minha trajetória, desenvolvi uma base sólida em desenvolvimento de software e estrutura de 
@@ -10,7 +10,7 @@ Atualmente, trabalho de forma flexível como Engenheiro de Dados e Aprendizado d
 Business Hub da INOVA IFAM, onde colaboro no desenvolvimento de sistemas internos com foco em 
 análise de dados e soluções baseadas em machine learning. Também possuo experiência prática com 
 desenvolvimento backend, front-end e visão computacional, além de participação em projetos envolvendo 
-interfaces web e aplicações voltadas à experiência do usuário.  "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+interfaces web e aplicações voltadas à experiência do usuário.
 
 ---
 
