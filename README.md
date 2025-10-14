@@ -98,7 +98,13 @@ interfaces web e aplicações voltadas à experiência do usuário.
 - [TCC — Detecção e Classificação de Tomates (YOLO)](#tcc--detecção-e-classificação-de-tomates-yolo)
 - [PIBIC — IoT aplicado ao Ensino de Cinemática](#pibic--iot-aplicado-ao-ensino-de-cinemática)
 
-> Dica: troque os `#` de “Repositório” por links reais dos seus repos. Onde já há vídeo, mantive o link.
+---
+
+### Metoru (Perfilometria a laser + Web/OPC UA)
+**Papel:** Backend/Frontend Web  
+**Resumo:** Aferição de peças por perfilometria a laser em robô cartesiano; app web para cadastro/relatórios e comandos (jog, início de aferição), integração OPC UA.  
+**Stack:** Python/JS, OPC UA, Web  
+**Links:** Repositório: `#`  ·  Observação: imagens limitadas por confidencialidade
 
 ---
 
@@ -107,14 +113,6 @@ interfaces web e aplicações voltadas à experiência do usuário.
 **Resumo:** Aferição automatizada de itens em caixas (cabos, fontes, modems Wi-Fi) com YOLO; desvio na esteira se faltar item; detecção de caixas abertas.  
 **Stack:** Python, YOLO, OpenCV, Web  
 **Links:** Repositório: `#`
-
----
-
-### Metoru (Perfilometria a laser + Web/OPC UA)
-**Papel:** Backend/Frontend Web  
-**Resumo:** Aferição de peças por perfilometria a laser em robô cartesiano; app web para cadastro/relatórios e comandos (jog, início de aferição), integração OPC UA.  
-**Stack:** Python/JS, OPC UA, Web  
-**Links:** Repositório: `#`  ·  Observação: imagens limitadas por confidencialidade
 
 ---
 
