@@ -104,7 +104,7 @@ interfaces web e aplicações voltadas à experiência do usuário.
 **Papel:** Backend/Frontend Web  
 **Resumo:** Aferição de peças por perfilometria a laser em robô cartesiano; app web para cadastro/relatórios e comandos (jog, início de aferição), integração OPC UA.  
 **Stack:** Python/JS, OPC UA, Web  
-**Links:** Repositório: `#`  ·  Observação: imagens limitadas por confidencialidade
+**Links:** Repositório: https://github.com/Paulo-fernds/metoru-project  ·  Observação: imagens limitadas por confidencialidade
 
 ---
 
