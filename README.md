@@ -112,7 +112,7 @@ interfaces web e aplicações voltadas à experiência do usuário.
 **Papel:** Liderança de software (CV/IA + UX/UI)  
 **Resumo:** Aferição automatizada de itens em caixas (cabos, fontes, modems Wi-Fi) com YOLO; desvio na esteira se faltar item; detecção de caixas abertas.  
 **Stack:** Python, YOLO, OpenCV, Web  
-**Links:** Repositório: `#`
+**Links:** Repositório: https://github.com/Paulo-fernds/Stipare-Spelho/tree/main
 
 ---
 
