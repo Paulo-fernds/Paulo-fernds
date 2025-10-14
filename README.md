@@ -95,7 +95,7 @@ interfaces web e aplicações voltadas à experiência do usuário.
 
 - [Stipare Spelho (Visão Computacional + YOLO)](#stipare-spelho-visão-computacional--yolo)
 - [Metoru (Perfilometria a laser + Web/OPC UA)](#metoru-perfilometria-a-laser--webopc-ua)
-- [TCC — Detecção e Classificação de Tomates (YOLO)]([#tcc--detecção-e-classificação-de-tomates-yolo](http://github.com/Paulo-fernds/SDT-SISTEMA-DE-DETECCAO-DE-TOMATES/blob/main/README.md))
+- [TCC — Detecção e Classificação de Tomates (YOLO)](#tcc--detecção-e-classificação-de-tomates-yolo).
 - [PIBIC — IoT aplicado ao Ensino de Cinemática](#pibic--iot-aplicado-ao-ensino-de-cinemática)
 
 ---
