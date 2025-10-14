@@ -87,7 +87,8 @@ interfaces web e aplicações voltadas à experiência do usuário.
 />
 
 
+<br>
 
 ### 🤖 Linguagens e Tecnologias
-A
+
 
