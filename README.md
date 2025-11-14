@@ -130,6 +130,13 @@ interfaces web e aplicações voltadas à experiência do usuário.
 **Stack:** Raspberry Pi, Python, MySQL  
 **Links:** Repositório: https://github.com/Paulo-fernds/Projeto-Pibic-IoT-aplicado-ao-ensino-da-cinematica
 
+---
+
+### RAG — LLM aplicada à consulta de NR's 
+**Papel:** Dev/LLM  
+**Resumo:** Desenvolvimento de um sistema RAG (Retrieval-Augmented Generation) para consulta inteligente de Normas Regulamentadoras (NRs). O modelo recebe perguntas em linguagem natural, realiza busca semântica em trechos das normas e retorna respostas precisas, citadas e contextualizadas. O pipeline inclui indexação, chunking, embeddings, FAISS VectorStore e validação de respostas.  
+**Stack:** Python, LangChain, FAISS, Sentence Transformers, LLM (Ollama).  
+**Links:** Repositório: https://github.com/Paulo-fernds/Projeto-Pibic-IoT-aplicado-ao-ensino-da-cinematica
 
 
 
