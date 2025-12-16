@@ -97,7 +97,7 @@ interfaces web e aplicações voltadas à experiência do usuário.
 - [Metoru (Perfilometria a laser + Web/OPC UA)](#metoru-perfilometria-a-laser--webopc-ua)
 - [TCC — Detecção e Classificação de Tomates (YOLO)](#tcc--detecção-e-classificação-de-tomates-yolo).
 - [PIBIC — IoT aplicado ao Ensino de Cinemática](#pibic--iot-aplicado-ao-ensino-de-cinemática)
-- [RAG — LLM aplicada à consulta de NR's](#rag)
+- [RAG — LLM aplicada à consulta de NR's](#rag---llm-aplicada-à-consulta-de-nrs)
 
 ---
 
