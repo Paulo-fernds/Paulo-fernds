@@ -139,5 +139,13 @@ interfaces web e aplicações voltadas à experiência do usuário.
 **Stack:** Python, Streamlit, LangChain, FAISS, Sentence Transformers, LLM (Ollama).  
 **Links:** Repositório: [https://github.com/Paulo-fernds/Projeto-Pibic-IoT-aplicado-ao-ensino-da-cinematica](https://github.com/Paulo-fernds/rag-consulta-nrs/blob/main/README.md)
 
+---
+
+### Análise de Dados — Loading... 
+**Papel:** Analista de Dados  
+**Resumo:** Loading....  
+**Stack:** Python, Pandas.  
+**Links:** Repositório: [Loading...](Loading...)
+
 
 
