@@ -98,6 +98,7 @@ interfaces web e aplicações voltadas à experiência do usuário.
 - [TCC — Detecção e Classificação de Tomates (YOLO)](#tcc--detecção-e-classificação-de-tomates-yolo).
 - [PIBIC — IoT aplicado ao Ensino de Cinemática](#pibic--iot-aplicado-ao-ensino-de-cinemática)
 - [RAG — LLM aplicada à consulta de NR's](#rag--llm-aplicada-à-consulta-de-nrs)
+- [analise dados](#analise-dados)
 
 ---
 
@@ -145,7 +146,7 @@ interfaces web e aplicações voltadas à experiência do usuário.
 **Papel:** Analista de Dados  
 **Resumo:** Loading....  
 **Stack:** Python, Pandas.  
-**Links:** Repositório: [Loading...](Loading...)
+**Links:** Repositório: [Loading...](https://github.com/Paulo-fernds/analise-dados/blob/main/README.md))
 
 
 
